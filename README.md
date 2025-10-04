@@ -7,7 +7,11 @@
 ## About Me
 
 ```
-Hey I'm Prakhar, an ML enthusiast and AI architect. At the Indian Institute of Technology, Kharagpur, I am an enthusiastic undergraduate student pursuing a bachelor's degree. I am passionate about the dynamic world of technology, robotics, artificial intelligence, management, and entrepreneurship and eager to investigate the opportunities in these areas. Let's connect and explore the potential for collaboration.
+Hey I'm Prakhar, an ML enthusiast and AI architect. At the Indian Institute of Technology, Kharagpur, I am an enthusiastic
+undergraduate student pursuing a bachelor's degree. I am passionate about the dynamic world of technology, robotics,
+artificial intelligence, management, and entrepreneurship and eager to investigate the opportunities in these areas.
+
+Let's connect and explore the potential for collaboration.
 ```
 
 ## Featured Projects
