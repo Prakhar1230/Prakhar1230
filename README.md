@@ -2,14 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Prakhar%20Tripathi&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20|%20AI%20Architect%20|%20IIT%20KGP&descSize=16&descAlignY=53" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LLM+Quantization+%E2%9A%A1+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Transforming+Ideas+into+Production-Ready+AI+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<br/><br/>
-
 </div>
 
-## 🎯 About Me
+## About Me
 
+```
 class MLEngineer:
   def init(self):
     self.name = "Prakhar Tripathi"
@@ -18,11 +15,12 @@ class MLEngineer:
     self.education = "Mining Engineering + AI/ML"
     self.interests = ["LLM Optimization", "Computer Vision", "Agentic AI", "MLOps", "Deep Learning"]
     self.status = "Open to Opportunities "
+```
 
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -80,7 +78,7 @@ class MLEngineer:
 </table>
 
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## 💻 Tech Arsenal
 
@@ -108,7 +106,7 @@ class MLEngineer:
 ![LaTeX](https://img.shields.io/badge/LaTeX-000080?style=for-the-badge&logo=latex&logoColor=00BFFF)
 
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## 📊 GitHub Analytics
 
@@ -131,7 +129,7 @@ class MLEngineer:
 </p>
 
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## 📫 Let's Connect
 
@@ -143,13 +141,13 @@ class MLEngineer:
 </p>
 
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Prakhar1230&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <!-- Wave Animation Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:000080&height=120&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:000080&height=120&section=footer" width="100%"/> -->
 
 </div>
