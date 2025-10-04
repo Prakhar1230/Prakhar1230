@@ -7,18 +7,8 @@
 ## About Me
 
 ```
-class MLEngineer:
-  def init(self):
-    self.name = "Prakhar Tripathi"
-    self.role = "Pre-Final Year @ IIT Kharagpur"
-    self.location = "India 🇮🇳"
-    self.education = "Mining Engineering + AI/ML"
-    self.interests = ["LLM Optimization", "Computer Vision", "Agentic AI", "MLOps", "Deep Learning"]
-    self.status = "Open to Opportunities "
+Hey I'm Prakhar, an ML enthusiast and AI architect. At the Indian Institute of Technology, Kharagpur, I am an enthusiastic undergraduate student pursuing a bachelor's degree. I am passionate about the dynamic world of technology, robotics, artificial intelligence, management, and entrepreneurship and eager to investigate the opportunities in these areas. Let's connect and explore the potential for collaboration.
 ```
-
-<!-- Glowing Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## Featured Projects
 
@@ -77,9 +67,6 @@ class MLEngineer:
 </tr>
 </table>
 
-<!-- Glowing Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 ## 💻 Tech Arsenal
 
 ![Python](https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=python&logoColor=00BFFF)
@@ -105,9 +92,6 @@ class MLEngineer:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000080?style=for-the-badge&logo=javascript&logoColor=00BFFF)
 ![LaTeX](https://img.shields.io/badge/LaTeX-000080?style=for-the-badge&logo=latex&logoColor=00BFFF)
 
-<!-- Glowing Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -128,9 +112,6 @@ class MLEngineer:
 <img src="https://github-profile-trophy.vercel.app/?username=Prakhar1230&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
-<!-- Glowing Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 ## 📫 Let's Connect
 
 <p align="center">
@@ -140,14 +121,7 @@ class MLEngineer:
 <a href="https://github.com/Prakhar1230"><img src="https://img.shields.io/badge/GitHub-Follow-000080?style=for-the-badge&logo=github&logoColor=00BFFF" alt="GitHub"/></a>
 </p>
 
-<!-- Glowing Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Prakhar1230&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile Views"/>
 </p>
-
-<!-- Wave Animation Footer -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:000080&height=120&section=footer" width="100%"/> -->
-
 </div>
