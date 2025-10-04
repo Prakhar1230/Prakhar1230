@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:000080&height=200&section=header&text=Prakhar%20Tripathi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20|%20AI%20Architect%20|%20IIT%20KGP&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LLM+Quantization+%E2%9A%A1+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Transforming+Ideas+into+Production-Ready+AI+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LLM+Quantization+%E2%9A%A1" alt="Typing SVG" /></a> -->
 
 <br/>
 
@@ -87,37 +87,24 @@ class MLEngineer:
 
 ## 💻 Tech Arsenal
 
-### **Core ML & AI**
 ![Python](https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=python&logoColor=00BFFF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000080?style=for-the-badge&logo=pytorch&logoColor=00BFFF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000080?style=for-the-badge&logo=tensorflow&logoColor=00BFFF)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000080?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-000080?style=for-the-badge&logoColor=00BFFF)
-
-### **LLMs & Generative AI**
 ![OpenAI](https://img.shields.io/badge/OpenAI-000080?style=for-the-badge&logo=openai&logoColor=00BFFF)
 ![LangChain](https://img.shields.io/badge/LangChain-000080?style=for-the-badge&logo=chainlink&logoColor=00BFFF)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000080?style=for-the-badge&logoColor=00BFFF)
 ![RAG](https://img.shields.io/badge/RAG_Systems-000080?style=for-the-badge&logoColor=00BFFF)
-
-### **Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-000080?style=for-the-badge&logo=opencv&logoColor=00BFFF)
 ![YOLO](https://img.shields.io/badge/YOLO-000080?style=for-the-badge&logoColor=00BFFF)
-![Detectron2](https://img.shields.io/badge/Detectron2-000080?style=for-the-badge&logoColor=00BFFF)
-
-### **MLOps & Deployment**
 ![Docker](https://img.shields.io/badge/Docker-000080?style=for-the-badge&logo=docker&logoColor=00BFFF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000080?style=for-the-badge&logo=fastapi&logoColor=00BFFF)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000080?style=for-the-badge&logo=streamlit&logoColor=00BFFF)
 ![Git](https://img.shields.io/badge/Git-000080?style=for-the-badge&logo=git&logoColor=00BFFF)
-
-### **Data Science Stack**
 ![Pandas](https://img.shields.io/badge/Pandas-000080?style=for-the-badge&logo=pandas&logoColor=00BFFF)
 ![NumPy](https://img.shields.io/badge/NumPy-000080?style=for-the-badge&logo=numpy&logoColor=00BFFF)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000080?style=for-the-badge&logoColor=00BFFF)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000080?style=for-the-badge&logo=jupyter&logoColor=00BFFF)
-
-### **Languages**
 ![C++](https://img.shields.io/badge/C++-000080?style=for-the-badge&logo=cplusplus&logoColor=00BFFF)
 ![SQL](https://img.shields.io/badge/SQL-000080?style=for-the-badge&logo=postgresql&logoColor=00BFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000080?style=for-the-badge&logo=javascript&logoColor=00BFFF)
@@ -151,7 +138,7 @@ class MLEngineer:
 
 ## 🎓 Current Focus
 
-
+Welcoming every opportunity by expanding my abilities
 <!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
