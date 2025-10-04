@@ -1,15 +1,12 @@
 <div align="center">
 
-<!-- Animated Header with Cyber Luxury Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:1E90FF,100:000080&height=200&section=header&text=Prakhar%20Tripathi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20|%20AI%20Architect%20|%20IIT%20KGP&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Prakhar%20Tripathi&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20|%20AI%20Architect%20|%20IIT%20KGP&descSize=16&descAlignY=53" width="100%"/>
 
-<!-- Animated Typing Effect -->
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LLM+Quantization+%E2%9A%A1" alt="Typing SVG" /></a> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;LLM+Quantization+%E2%9A%A1+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Transforming+Ideas+into+Production-Ready+AI+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🎯 About Me
 
