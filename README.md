@@ -21,7 +21,7 @@ Let's connect and explore the potential for collaboration.
 <td width="50%">
 
 ### 🧠 LLM Quantization Pipeline
-**Advanced model compression with Docker & evaluation metrics**
+**Tinyllama quantization and evaluation metrics contanerized in Docker**
 
 [![Repo](https://img.shields.io/badge/Repo-llama--quantization-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakhar1230/llama-quantization)
 
@@ -33,7 +33,7 @@ Let's connect and explore the potential for collaboration.
 <td width="50%">
 
 ### 🤖 Agentic AI Travel Planner
-**Multi-agent simulation with conversation frameworks**
+**Multi-agent integration for planning trips**
 
 [![Repo](https://img.shields.io/badge/Repo-Travel--Planner-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakhar1230/Agentic_AI_Travel_Planner)
 
@@ -47,7 +47,7 @@ Let's connect and explore the potential for collaboration.
 <td width="50%">
 
 ### 🔬 4xDigital Science
-**End-to-end ML pipeline for scientific data analysis**
+**Google Ads Optimisation and Automation (AdAPT)**
 
 [![Repo](https://img.shields.io/badge/Repo-4xDigital__Science-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakhar1230/4xDigital_science)
 
